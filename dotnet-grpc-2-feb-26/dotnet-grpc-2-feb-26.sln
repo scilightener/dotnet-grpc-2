@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherServer", "WeatherServer\WeatherServer.csproj", "{C467654C-68C5-4D7A-80DA-1A16AB308F68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherClient", "WeatherClient\WeatherClient.csproj", "{43DD6545-88FC-466F-9FAC-B6FE012A1773}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtAuthentication", "JwtAuthentication\JwtAuthentication.csproj", "{29DE33BD-A9A5-48F2-B1ED-AA203EC45178}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C467654C-68C5-4D7A-80DA-1A16AB308F68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C467654C-68C5-4D7A-80DA-1A16AB308F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C467654C-68C5-4D7A-80DA-1A16AB308F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C467654C-68C5-4D7A-80DA-1A16AB308F68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43DD6545-88FC-466F-9FAC-B6FE012A1773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43DD6545-88FC-466F-9FAC-B6FE012A1773}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43DD6545-88FC-466F-9FAC-B6FE012A1773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43DD6545-88FC-466F-9FAC-B6FE012A1773}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29DE33BD-A9A5-48F2-B1ED-AA203EC45178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29DE33BD-A9A5-48F2-B1ED-AA203EC45178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29DE33BD-A9A5-48F2-B1ED-AA203EC45178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29DE33BD-A9A5-48F2-B1ED-AA203EC45178}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
